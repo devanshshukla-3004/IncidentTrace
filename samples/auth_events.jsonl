@@ -1,0 +1,7 @@
+{"timestamp":"2026-10-27T00:01:00Z","host":"linux-web-01","user":"analyst","source_ip":"192.0.2.44","event_id":"sshd","event_type":"authentication","message":"Failed password for analyst from 192.0.2.44"}
+{"timestamp":"2026-10-27T00:02:00Z","host":"linux-web-01","user":"analyst","source_ip":"192.0.2.44","event_id":"sshd","event_type":"authentication","message":"Failed password for analyst from 192.0.2.44"}
+{"timestamp":"2026-10-27T00:03:00Z","host":"linux-web-01","user":"analyst","source_ip":"192.0.2.44","event_id":"sshd","event_type":"authentication","message":"Failed password for analyst from 192.0.2.44"}
+{"timestamp":"2026-10-27T00:04:00Z","host":"linux-web-01","user":"analyst","source_ip":"192.0.2.44","event_id":"sshd","event_type":"authentication","message":"Failed password for analyst from 192.0.2.44"}
+{"timestamp":"2026-10-27T00:05:00Z","host":"linux-web-01","user":"analyst","source_ip":"192.0.2.44","event_id":"sshd","event_type":"authentication","message":"Failed password for analyst from 192.0.2.44"}
+{"timestamp":"2026-10-27T00:06:00Z","host":"linux-web-01","user":"analyst","source_ip":"192.0.2.44","event_id":"sshd","event_type":"authentication","message":"Accepted password for analyst from 192.0.2.44"}
+{"timestamp":"2026-10-27T00:08:00Z","host":"win-workstation-02","user":"admin","source_ip":"unknown","event_id":"4732","event_type":"Security","message":"A member was added to a security-enabled local group"}
